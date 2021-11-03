@@ -1,0 +1,19 @@
+,Attack Score,Defense Score,Overall Score
+Normal,7,18,25
+Fire,10,15,25
+Water,12,16,28
+Electric,6,18,24
+Grass,0,7,7
+Ice,10,7,17
+Fighting,3,12,15
+Poison,3,17,20
+Ground,12,14,26
+Flying,12,15,27
+Psychic,9,11,20
+Bug,0,12,12
+Rock,13,7,20
+Ghost,12,20,32
+Dragon,11,13,24
+Dark,11,14,25
+Steel,9,22,31
+Fairy,12,18,30
