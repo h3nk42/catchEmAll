@@ -53,6 +53,14 @@
 51,fire-spin,fire,special,35.0,15,0,85.0
 52,withdraw,water,status,,40,0,
 53,skull-bash,normal,physical,130.0,10,0,100.0
-54,defense-curl,normal,status,,40,0,
-55,screech,normal,status,,40,0,85.0
-56,bide,normal,physical,,10,1,
+54,twineedle,bug,physical,25.0,20,0,100.0
+55,pin-missile,bug,physical,25.0,20,0,95.0
+56,confusion,psychic,special,50.0,25,0,100.0
+57,stun-spore,grass,status,,30,0,75.0
+58,psybeam,psychic,special,65.0,20,0,100.0
+59,thrash,normal,physical,120.0,10,0,100.0
+60,dragon-rage,dragon,special,,10,0,100.0
+61,hyper-beam,normal,special,150.0,5,0,90.0
+62,defense-curl,normal,status,,40,0,
+63,screech,normal,status,,40,0,85.0
+64,bide,normal,physical,,10,1,
