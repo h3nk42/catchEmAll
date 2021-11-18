@@ -1,0 +1,38 @@
+,name,steps,averageEncounters,encounterablePokemons
+0,kanto-route-1-area,31,6.2,"[('pidgey', 50, 'walk', 3.1), ('rattata', 50, 'walk', 3.1)]"
+1,kanto-route-2-south-towards-viridian-city,0,0.0,"[('caterpie', 15, 'walk', 0.0), ('pidgey', 45, 'walk', 0.0), ('rattata', 40, 'walk', 0.0)]"
+2,kanto-route-2-north-towards-pewter-city,0,0.0,[]
+3,viridian-forest-area,110,22.0,"[('caterpie', 45, 'walk', 9.9), ('metapod', 40, 'walk', 8.8), ('weedle', 5, 'walk', 1.1), ('kakuna', 5, 'walk', 1.1), ('pikachu', 5, 'walk', 1.1)]"
+4,kanto-route-22-area,0,0.0,"[('rattata', 45, 'walk', 0.0), ('spearow', 10, 'walk', 0.0), ('nidoran-f', 40, 'walk', 0.0), ('nidoran-m', 5, 'walk', 0.0), ('poliwag', 100, 'fishing', 0.0), ('goldeen', 100, 'fishing', 0.0), ('magikarp', 100, 'fishing', 0.0)]"
+5,kanto-route-3-area,0,0.0,"[('pidgey', 45, 'walk', 0.0), ('spearow', 45, 'walk', 0.0), ('jigglypuff', 10, 'walk', 0.0)]"
+6,kanto-route-4-area,0,0.0,"[('rattata', 40, 'walk', 0.0), ('spearow', 35, 'walk', 0.0), ('sandshrew', 25, 'walk', 0.0)]"
+7,kanto-route-4-pokemon-center,0,0.0,"[('magikarp', 100, 'walk', 0.0)]"
+8,kanto-route-24-area,0,0.0,"[('caterpie', 20, 'walk', 0.0), ('metapod', 20, 'walk', 0.0), ('pidgey', 20, 'walk', 0.0), ('psyduck', 33, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('abra', 15, 'walk', 0.0), ('bellsprout', 25, 'walk', 0.0), ('krabby', 33, 'fishing', 0.0), ('goldeen', 84, 'fishing', 0.0), ('magikarp', 100, 'fishing', 0.0)]"
+9,kanto-route-25-area,0,0.0,"[('caterpie', 20, 'walk', 0.0), ('metapod', 20, 'walk', 0.0), ('weedle', 1, 'walk', 0.0), ('kakuna', 4, 'walk', 0.0), ('pidgey', 15, 'walk', 0.0), ('psyduck', 33, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('abra', 15, 'walk', 0.0), ('bellsprout', 25, 'walk', 0.0), ('krabby', 33, 'walk', 0.0), ('goldeen', 84, 'fishing', 0.0), ('magikarp', 100, 'fishing', 0.0)]"
+10,kanto-route-11-area,0,0.0,"[('spearow', 35, 'walk', 0.0), ('sandshrew', 40, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('shellder', 50, 'walk', 0.0), ('drowzee', 25, 'walk', 0.0), ('krabby', 50, 'fishing', 0.0), ('goldeen', 50, 'fishing', 0.0), ('magikarp', 100, 'fishing', 0.0)]"
+11,digletts-cave-area,0,0.0,"[('diglett', 95, 'walk', 0.0), ('dugtrio', 5, 'walk', 0.0)]"
+12,kanto-route-5-area,0,0.0,"[('pidgey', 40, 'walk', 0.0), ('meowth', 25, 'walk', 0.0), ('bellsprout', 35, 'walk', 0.0)]"
+13,kanto-route-6-area,0,0.0,"[('pidgey', 40, 'walk', 0.0), ('meowth', 25, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('bellsprout', 35, 'walk', 0.0), ('shellder', 50, 'walk', 0.0), ('krabby', 50, 'walk', 0.0), ('goldeen', 50, 'fishing', 0.0), ('magikarp', 100, 'fishing', 0.0)]"
+14,ss-anne-area,0,0.0,[]
+15,kanto-route-9-area,0,0.0,"[('rattata', 40, 'walk', 0.0), ('spearow', 35, 'walk', 0.0), ('sandshrew', 25, 'walk', 0.0)]"
+16,kanto-route-10-area,0,0.0,"[('spearow', 35, 'walk', 0.0), ('sandshrew', 25, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('poliwhirl', 50, 'walk', 0.0), ('slowpoke', 50, 'walk', 0.0), ('voltorb', 40, 'walk', 0.0), ('goldeen', 50, 'fishing', 0.0), ('magikarp', 100, 'fishing', 0.0)]"
+17,rock-tunnel-1f,0,0.0,[]
+18,rock-tunnel-b1f,0,0.0,"[('zubat', 55, 'walk', 0.0), ('machop', 15, 'walk', 0.0), ('geodude', 25, 'walk', 0.0), ('onix', 5, 'walk', 0.0)]"
+19,rock-tunnel-b2f,0,0.0,"[('zubat', 50, 'walk', 0.0), ('machop', 15, 'walk', 0.0), ('geodude', 26, 'walk', 0.0), ('onix', 9, 'walk', 0.0)]"
+20,kanto-route-7-area,0,0.0,"[('pidgey', 30, 'walk', 0.0), ('vulpix', 10, 'walk', 0.0), ('meowth', 30, 'walk', 0.0), ('bellsprout', 30, 'walk', 0.0)]"
+21,kanto-route-8-area,0,0.0,"[('pidgey', 30, 'walk', 0.0), ('sandshrew', 20, 'walk', 0.0), ('vulpix', 20, 'walk', 0.0), ('meowth', 30, 'walk', 0.0)]"
+22,pokemon-tower-1f,0,0.0,[]
+23,pokemon-tower-2f,0,0.0,[]
+24,pokemon-tower-3f,0,0.0,"[('gastly', 90, 'walk', 0.0), ('haunter', 1, 'walk', 0.0), ('cubone', 9, 'walk', 0.0)]"
+25,pokemon-tower-4f,0,0.0,"[('gastly', 86, 'walk', 0.0), ('haunter', 5, 'walk', 0.0), ('cubone', 9, 'walk', 0.0)]"
+26,pokemon-tower-5f,0,0.0,"[('gastly', 86, 'walk', 0.0), ('haunter', 5, 'walk', 0.0), ('cubone', 9, 'walk', 0.0)]"
+27,pokemon-tower-6f,0,0.0,"[('gastly', 85, 'walk', 0.0), ('haunter', 6, 'walk', 0.0), ('cubone', 9, 'walk', 0.0)]"
+28,pokemon-tower-7f,0,0.0,"[('gastly', 75, 'walk', 0.0), ('haunter', 15, 'walk', 0.0), ('cubone', 10, 'walk', 0.0)]"
+29,kanto-route-12-area,0,0.0,"[('pidgey', 40, 'walk', 0.0), ('venonat', 20, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('bellsprout', 35, 'walk', 0.0), ('weepinbell', 5, 'walk', 0.0), ('tentacool', 25, 'fishing', 0.0), ('krabby', 25, 'fishing', 0.0), ('goldeen', 75, 'fishing', 0.0), ('magikarp', 125, 'fishing', 0.0), ('snorlax', 100, 'walk', 0.0)]"
+30,kanto-route-13-area,0,0.0,"[('pidgey', 35, 'walk', 0.0), ('venonat', 20, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('bellsprout', 35, 'walk', 0.0), ('weepinbell', 5, 'walk', 0.0), ('tentacool', 25, 'fishing', 0.0), ('krabby', 25, 'fishing', 0.0), ('goldeen', 75, 'fishing', 0.0), ('magikarp', 125, 'fishing', 0.0), ('ditto', 5, 'walk', 0.0)]"
+31,kanto-route-14-area,0,0.0,"[('pidgey', 20, 'walk', 0.0), ('pidgeotto', 5, 'walk', 0.0), ('venonat', 20, 'walk', 0.0), ('bellsprout', 35, 'walk', 0.0), ('weepinbell', 5, 'walk', 0.0), ('ditto', 15, 'walk', 0.0)]"
+32,kanto-route-15-area,0,0.0,"[('pidgey', 15, 'walk', 0.0), ('pidgeotto', 5, 'walk', 0.0), ('venonat', 20, 'walk', 0.0), ('bellsprout', 35, 'walk', 0.0), ('weepinbell', 5, 'walk', 0.0), ('ditto', 20, 'walk', 0.0)]"
+33,kanto-safari-zone-middle,0,0.0,"[('nidoran-f', 20, 'walk', 0.0), ('nidorina', 10, 'walk', 0.0), ('nidorino', 5, 'walk', 0.0), ('parasect', 5, 'walk', 0.0), ('venonat', 15, 'walk', 0.0), ('psyduck', 25, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('slowpoke', 25, 'walk', 0.0), ('krabby', 25, 'walk', 0.0), ('exeggcute', 20, 'walk', 0.0), ('rhyhorn', 20, 'walk', 0.0), ('chansey', 1, 'walk', 0.0), ('goldeen', 50, 'fishing', 0.0), ('pinsir', 4, 'walk', 0.0), ('magikarp', 100, 'fishing', 0.0), ('dratini', 25, 'walk', 0.0)]"
+34,kanto-safari-zone-area-1-east,0,0.0,"[('nidoran-f', 20, 'walk', 0.0), ('nidorina', 10, 'walk', 0.0), ('nidoran-m', 5, 'walk', 0.0), ('paras', 15, 'walk', 0.0), ('parasect', 5, 'walk', 0.0), ('psyduck', 25, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('slowpoke', 25, 'walk', 0.0), ('doduo', 20, 'walk', 0.0), ('krabby', 25, 'walk', 0.0), ('exeggcute', 20, 'walk', 0.0), ('kangaskhan', 4, 'walk', 0.0), ('goldeen', 50, 'fishing', 0.0), ('pinsir', 1, 'walk', 0.0), ('magikarp', 100, 'fishing', 0.0), ('dratini', 25, 'walk', 0.0)]"
+35,kanto-safari-zone-area-2-north,0,0.0,"[('nidoran-f', 20, 'walk', 0.0), ('nidorina', 10, 'walk', 0.0), ('nidorino', 5, 'walk', 0.0), ('paras', 15, 'walk', 0.0), ('venomoth', 5, 'walk', 0.0), ('psyduck', 25, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('slowpoke', 25, 'walk', 0.0), ('krabby', 25, 'walk', 0.0), ('exeggcute', 20, 'walk', 0.0), ('rhyhorn', 20, 'walk', 0.0), ('chansey', 4, 'walk', 0.0), ('goldeen', 50, 'fishing', 0.0), ('tauros', 1, 'walk', 0.0), ('magikarp', 100, 'fishing', 0.0), ('dratini', 25, 'walk', 0.0)]"
+36,kanto-safari-zone-area-3-west,0,0.0,"[('nidoran-f', 20, 'walk', 0.0), ('nidorina', 10, 'walk', 0.0), ('nidoran-m', 5, 'walk', 0.0), ('venonat', 15, 'walk', 0.0), ('venomoth', 5, 'walk', 0.0), ('psyduck', 25, 'walk', 0.0), ('poliwag', 50, 'fishing', 0.0), ('slowpoke', 25, 'walk', 0.0), ('doduo', 20, 'walk', 0.0), ('krabby', 25, 'walk', 0.0), ('exeggcute', 20, 'walk', 0.0), ('kangaskhan', 1, 'walk', 0.0), ('goldeen', 50, 'fishing', 0.0), ('tauros', 4, 'walk', 0.0), ('magikarp', 100, 'fishing', 0.0), ('dratini', 25, 'walk', 0.0)]"
