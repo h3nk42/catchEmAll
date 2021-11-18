@@ -1,5 +1,5 @@
 ,name,steps,averageEncounters,encounterablePokemons
-0,kanto-route-1-area,31,6.2,"[('pidgey', 50, 'Walk', 3.1), ('rattata', 50, 'Walk', 3.1)]"
-1,kanto-route-2-south-towards-viridian-city,0,0.0,"[('weedle', 15, 'Walk', 0.0), ('pidgey', 45, 'Walk', 0.0), ('rattata', 40, 'Walk', 0.0)]"
-2,viridian-forest-area,110,22.0,"[('caterpie', 5, 'Walk', 1.1), ('metapod', 5, 'Walk', 1.1), ('weedle', 45, 'Walk', 9.9), ('kakuna', 40, 'Walk', 8.8), ('pikachu', 5, 'Walk', 1.1)]"
-3,kanto-route-22-area,100,20.0,"[('rattata', 45, 'Walk', 9.0), ('spearow', 10, 'Walk', 2.0), ('nidoran-f', 5, 'Walk', 1.0), ('nidoran-m', 40, 'Walk', 8.0), ('poliwag', 100, 'Fishing', 20.0), ('goldeen', 100, 'Fishing', 20.0), ('magikarp', 100, 'Fishing', 20.0)]"
+0,kanto-route-1-area,31,6.2,"[('pidgey', 50, 'walk', 3.1), ('rattata', 50, 'walk', 3.1)]"
+1,kanto-route-2-south-towards-viridian-city,0,0.0,"[('weedle', 15, 'walk', 0.0), ('pidgey', 45, 'walk', 0.0), ('rattata', 40, 'walk', 0.0)]"
+2,viridian-forest-area,110,22.0,"[('caterpie', 5, 'walk', 1.1), ('metapod', 5, 'walk', 1.1), ('weedle', 45, 'walk', 9.9), ('kakuna', 40, 'walk', 8.8), ('pikachu', 5, 'walk', 1.1)]"
+3,kanto-route-22-area,100,20.0,"[('rattata', 45, 'walk', 9.0), ('spearow', 10, 'walk', 2.0), ('nidoran-f', 5, 'walk', 1.0), ('nidoran-m', 40, 'walk', 8.0), ('poliwag', 100, 'fishing', 20.0), ('goldeen', 100, 'fishing', 20.0), ('magikarp', 100, 'fishing', 20.0)]"
