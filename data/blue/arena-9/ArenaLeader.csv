@@ -1,0 +1,8 @@
+,name,averageLevel,pokemon
+0,lorelei,53.4,"['dewgong', 'cloyster', 'slowbro', 'jynx', 'lapras']"
+1,bruno,55.4,"['onix', 'hitmonchan', 'hitmonlee', 'onix', 'machamp']"
+2,agatha,57.0,"['gengar', 'golbat', 'haunter', 'arbok', 'gengar']"
+3,lance,58.4,"['gyarados', 'dragonair', 'dragonair', 'aerodactyl', 'dragonite']"
+4,blueBulbasaur,61.666666666666664,"['pidgeot', 'alakazam', 'rhydon', 'exeggutor', 'gyarados', 'charizard']"
+5,blueCharmander,61.666666666666664,"['pidgeot', 'alakazam', 'rhydon', 'arcanine', 'exeggutor', 'blastoise']"
+6,blueSquirtle,61.666666666666664,"['pidgeot', 'alakazam', 'rhydon', 'gyarados', 'arcanine', 'venusaur']"
