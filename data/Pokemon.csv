@@ -89,7 +89,7 @@
 87,80,slowbromega slowbro,Water,Psychic,590,95,75,180,130,80,30,1,False
 88,81,magnemite,Electric,Steel,325,25,35,70,95,55,45,1,False
 89,82,magneton,Electric,Steel,465,50,60,95,120,70,70,1,False
-90,83,farfetch'd,Normal,Flying,352,52,65,55,58,62,60,1,False
+90,83,farfetchd,Normal,Flying,352,52,65,55,58,62,60,1,False
 91,84,doduo,Normal,Flying,310,35,85,45,35,35,75,1,False
 92,85,dodrio,Normal,Flying,460,60,110,70,60,60,100,1,False
 93,86,seel,Water,,325,65,45,55,45,70,45,1,False
@@ -130,7 +130,7 @@
 128,119,seaking,Water,,450,80,92,65,65,80,68,1,False
 129,120,staryu,Water,,340,30,45,55,70,55,85,1,False
 130,121,starmie,Water,Psychic,520,60,75,85,100,85,115,1,False
-131,122,mr. mime,Psychic,Fairy,460,40,45,65,100,120,90,1,False
+131,122,mr-mime,Psychic,Fairy,460,40,45,65,100,120,90,1,False
 132,123,scyther,Bug,Flying,500,70,110,80,55,80,105,1,False
 133,124,jynx,Ice,Psychic,455,65,50,35,115,95,95,1,False
 134,125,electabuzz,Electric,,490,65,83,57,95,85,105,1,False
