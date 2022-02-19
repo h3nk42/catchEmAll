@@ -17,4 +17,6 @@ We're working with Pokemon Datasets of Kaggle
 
 ### example plottings:
 ![Plotting1](./plotting/static/img/example1.png)
+![Plotting1](./plotting/static/img/example2.png)
+![Plotting1](./plotting/static/img/example3.png)
 
