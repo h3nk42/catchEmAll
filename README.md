@@ -15,3 +15,7 @@ We're working with Pokemon Datasets of Kaggle
 - whats the best team for each arena in [Pokemon red and blue](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
 ---
 
+### example plottings:
+[This is an image](
+catchEmAll/plotting/static/img/example1.png)
+
