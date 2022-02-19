@@ -12,7 +12,7 @@ We're working with follwoing Pokemon Data resources
 
 
 ### were trying to answer:
-- whats the best team for each arena in [Pokemon red and blue](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
+- whats the best team for beating each arenaleader in [Pokemon red and blue](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
 ---
 
 ### example plottings:
